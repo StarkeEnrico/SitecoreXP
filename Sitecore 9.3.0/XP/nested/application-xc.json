@@ -561,6 +561,9 @@
           },
           "xpPerformanceCountersType": {
             "value": "[parameters('xpPerformanceCountersType')]"
+          },
+          "xcSearchWebAppName": { 
+            "value": "[parameters('xcSearchWebAppName')]" 
           }
         }
       },
